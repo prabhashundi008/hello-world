@@ -1,5 +1,3 @@
 # hello-world
 Introduction to Github\n
-This is my first time using Github.\n
-It may need some getting used to.
-
+Now try to pretend that this is a code
